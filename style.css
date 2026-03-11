@@ -1,5 +1,5 @@
 .center-image {
-   position:absolute;
+   position:relative;
    display: block;
   margin: auto;
    object-fit: fill;
@@ -61,6 +61,7 @@
     left: 0px;  /* Distance from the left of the container */
    
   }
+
 
 
 
