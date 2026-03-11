@@ -1,10 +1,10 @@
 .center-image {
-   position:relative;
+   position:absolute;
    display: block;
   margin: auto;
    object-fit: fill;
 
-  margin-top: 150px;
+  margin-top: 170px;
   
 }
 .center-mage {
@@ -61,5 +61,6 @@
     left: 0px;  /* Distance from the left of the container */
    
   }
+
 
 
